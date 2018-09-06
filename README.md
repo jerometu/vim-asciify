@@ -7,14 +7,11 @@ Copy the asciify dir to ~/.vim/plugin (create directory if absent)
 ![example](https://im3.ezgif.com/tmp/ezgif-3-288ba56827.gif)
 
 It is possible to use a different comment delimiter (default is #).
+
 For qoutes:
-```python
-:Asciify \"
-```
+<b>:Asciify \"</b>
 And slashes
-```python
-:Asciify \//
-```
+<b>:Asciify \//</b>
 
 ## Todo
 - Some characters (", ',...) are not supported
