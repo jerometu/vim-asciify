@@ -9,3 +9,6 @@ Copy the asciify dir to ~/.vim/plugin (create directory if absent).
 ## Todo
 - Some characters (", ',...) are not supported
 - A prettier font
+
+## Credits
+Font stolen from https://github.com/DevonBernard/ASCII-Art
