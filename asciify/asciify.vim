@@ -1,7 +1,7 @@
 "
 " <This plugin generates ASCII art titles>
 "
-" Font stolen from https://github.com/DevonBernard/ASCII-Art
+" Font: Small by Glenn Chappell 4/93 -- based on Standard 
 " Quotes and other special characters not supported
 "
 
