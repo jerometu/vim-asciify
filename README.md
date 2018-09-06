@@ -9,9 +9,13 @@ Copy the asciify dir to ~/.vim/plugin (create directory if absent)
 It is possible to use a different comment delimiter (default is #).
 
 For qoutes:
-<b>:Asciify \"</b>
-And slashes
-<b>:Asciify \//</b>
+```
+:Asciify \"
+```
+And slashes:
+```
+:Asciify \//
+```
 
 ## Todo
 - Some characters (", ',...) are not supported
