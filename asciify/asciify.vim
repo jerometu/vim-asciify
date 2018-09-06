@@ -9,10 +9,10 @@ command! -nargs=? -bar Asciify  call Transform(<f-args>)
 
 function! Transform(...)
     try	
-	let commentChar = "#"
-	if a:0 != 0
-	    let commentChar = a:1
-	endif
+        let commentChar = "#"
+        if a:0 != 0
+            let commentChar = a:1
+        endif
         let font = '~/.vim/plugin/asciify/font.txt'
         let split = split(getline('.'),'\zs')
         let chars = []
