@@ -4,7 +4,7 @@ Text to ascii generator Vim plugin.
 ## Usage
 Copy the asciify dir to ~/.vim/plugin (create directory if absent)
 
-![example](https://im3.ezgif.com/tmp/ezgif-3-288ba56827.gif)
+![example](https://i.imgur.com/AlY1uja.gif)
 
 It is possible to use a different comment delimiter (default is #).
 
