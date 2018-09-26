@@ -8,7 +8,7 @@ Copy the asciify dir to ~/.vim/plugin (create directory if absent)
 
 It is possible to use a different comment delimiter (default is #).
 
-For qoutes:
+For quotes:
 ```
 :Asciify \"
 ```
